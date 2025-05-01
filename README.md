@@ -97,11 +97,13 @@ The algorithms have been rigorously tested on an NVIDIA RTX 4090 GPU. Each algor
 # Citation
 If you find this repository useful, please cite the following paper:
 ```
-@article{wei2023neumanifold,
-  title={NeuManifold: Neural Watertight Manifold Reconstruction with Efficient and High-Quality Rendering Support},
+@inproceedings{wei2025neumanifold,
+  title={Neumanifold: Neural watertight manifold reconstruction with efficient and high-quality rendering support},
   author={Wei, Xinyue and Xiang, Fanbo and Bi, Sai and Chen, Anpei and Sunkavalli, Kalyan and Xu, Zexiang and Su, Hao},
-  journal={arXiv preprint arXiv:2305.17134},
-  year={2023}
+  booktitle={2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+  pages={731--741},
+  year={2025},
+  organization={IEEE}
 }
 ```
 
