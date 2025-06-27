@@ -1,0 +1,9 @@
+[project]
+name = "diso"
+version = "0.1.4"
+description = "Differentiable Iso-Surface Extraction Package"
+requires-python = ">=3.6"
+dependencies = ["trimesh"]
+
+[build-system]
+requires = ["setuptools", "torch"]
